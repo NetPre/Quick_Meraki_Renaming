@@ -1,6 +1,17 @@
-# Quick_Meraki_Renaming
+# Quick Meraki Renaming
 
-### All you have to do is fill the csv file and run the script.
-### If you want to run base on the old and new name you don't need to fill the serial number colum and you run rename_base_on_oldname.py
-### If you want to run base on the serial number you need to fill the old and new name colum you can put dummy values and you run rename_base_sn.py
-### If you have any issues, please contact me.
+## Overview
+This repository provides a simple solution for renaming Meraki devices effortlessly using Python scripts. Follow the instructions below to streamline the renaming process quickly.
+
+## Usage
+
+1. Fill in the CSV file:
+   - For renaming based on the old and new name, leave the serial number column empty.
+   - Run `rename_base_on_oldname.py`.
+
+2. For renaming based on the serial number:
+   - Fill in the old and new name columns (dummy values are acceptable).
+   - Run `rename_base_sn.py`.
+
+## Note
+If you encounter any issues or have questions, feel free to contact me. Your feedback is appreciated!
