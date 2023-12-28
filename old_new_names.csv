@@ -1,0 +1,4 @@
+old,new,serial
+sw1,new_sw1,serial-num-sw1
+mx1,new_mx1,serial-num-mx1
+ap1,new_ap1,serial-num-ap1
